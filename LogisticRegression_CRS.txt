@@ -1,0 +1,14 @@
+Number of row on the dataset 124
+Leght of the each row= 7
+Number of the theta = Number of Features = (Length of each row -1)  6
+Initializing the all the theta as 0
+theta, alpha(learning rate),iterations are initialized and values are  =  initial_theta= [0, 0, 0, 0, 0, 0] alpha= 0.1 iterations= 1000
+-------------------------------------------------------------------------------------------------
+Creating separate array for Features and Predictions
+Separate aaray created for features and Predictions
+---------------------------------------------------------------------------------------------------
+Creating Training and Test Dataset with split 0.33 , If you want to change the split ratio then please update the split variable
+Train and Test Set Created . Lenght of the Test Set =  41 Length of the training set = 83
+---------------------------------------------------------------------------------------------------
+Accuracy of Test Dataset with our Logistic regression 0.7073170731707317
+Accuracy of Training Dataset with sklearn = 0.658536585366
